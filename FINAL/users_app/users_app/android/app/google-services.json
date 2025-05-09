@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "353689170943",
+    "project_id": "tunatrike-database-final",
+    "storage_bucket": "tunatrike-database-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353689170943:android:f6a16869c009cca36aedca",
+        "android_client_info": {
+          "package_name": "com.example.users_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAcjB8a6SEorp0sgZGxBkSH-XZpJ1Dnn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
